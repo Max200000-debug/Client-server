@@ -50,6 +50,6 @@ For the moment, the public connection between client and server is available onl
 
 Regards 
 
-Thanks for reading and analyzing my project. If there are any problems or issues, do not hesitate to contact me at massimo.aureli@[uha.fr](http://uha.fr/), I'll answer as soon as possible.
+Thanks for reading and analyzing my project. If there are any problems or issues, do not hesitate to contact me, I'll answer as soon as possible.
 
 I wish you a happy new year, with best wishes. 🥂
